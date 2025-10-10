@@ -1,2 +1,8 @@
-# Guía Introductoria para subir tus proyectos a GitHub
-Este repositorio ofrece una guía práctica para profesionales en Ciencias Sociales que deseen iniciar, estructurar y publicar sus proyectos en GitHub. Incluye recomendaciones sobre buenas prácticas, organización de carpetas, control de versiones y consideraciones éticas para compartir código y datos de forma segura y colaborativa.
+# Guía introductoria para subir tus proyectos a GitHub
+## 📋 Descripción
+Esta guía práctica esta diseñada especialmente para profesionales en ciencias sociales que deseen iniciar, estructurar y publicar sus proyectos (avance de alguna investigación, clase, etc) en GitHub. Aquí encontrarás los primeros pasos para compartir tu trabajo de forma segura, organizada y colaborativa.
+
+## ✨ Contribuir
+Tus aportes son bienvenidos. Si tienes sugerencias, correcciones o quieres agregar contenido a esta guía, estás invitada a contribuir!
+
+⭐ Si esta guía te resulta útil, ¡considera darle una estrella al repositorio!
